@@ -1,0 +1,9 @@
+notebook
+jupyterlab
+numpy
+matplotlib
+pandas
+seaborn
+openpyxl
+papermill
+statsmodels

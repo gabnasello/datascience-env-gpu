@@ -1,0 +1,34 @@
+-------------------------------
+
+v. 2024-05-15
+
+Base docker file cschranz/gpu-jupyter:v1.5_cuda-12.0_ubuntu-22.04_python-only
+
+Install the following packages:
+
+notebook
+jupyterlab
+numpy
+matplotlib
+pandas
+seaborn
+openpyxl
+papermill
+statsmodels
+
+R packages added:
+
+IRkernel
+devtools
+repr
+rstatix
+lmerTest
+emmeans
+svglite
+latex2exp
+ggpubr
+ggsci
+ggraph
+tidyverse
+plyr
+investr
